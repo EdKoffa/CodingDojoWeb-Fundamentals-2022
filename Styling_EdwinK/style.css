@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+}
+h1 {
+    text-align:left;
+    background-color: black;
+    color: rgb(17, 177, 226);
+}
+.my {
+    color: white;
+}
+h2 {
+    text-align:center;
+    background-color: purple;
+    font-style: italic;
+    color: white;
+
+}
+h3 {
+    text-align:right;
+    background-color:cornflowerblue;
+    text-decoration:underline;
+}
