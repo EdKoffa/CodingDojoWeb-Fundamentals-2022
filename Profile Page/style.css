@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+html {
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll;
+}
+body {
+    min-height: 100%;
+    
+}
+li {
+    color: white;
+}
+#profile {
+    color: white;
+}
+ul {
+    list-style-type: none;
+}
+button {
+    color: white;
+    background-color: skyblue;
+    height: 30px;
+    width: 80px;
+    
+}
+   .list1 p {
+    color: white;
+}
+.list1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.header {
+    width: 100%;
+    background-color: rgb(54, 53, 53);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.cardbody {
+    border: tan solid 2px;
+    margin: 50px;
+    width: 60%;
+    margin-left: 200px;
+    }
+.cardbody h1,
+.cardbody h2,
+.cardbody h3,
+.cardbody p {
+    margin: 20px 20px;
+}
+.id {
+    background: skyblue;
+    padding-left: 20px;
+}
+.gear, .marker {
+    height: 20px;
+}
+.Jane {
+    height: 150px;
+}
+.education {
+    width: 60%;
+    margin-left: 200px;
+    background-color: black;
+}
+#edu {
+    color: white;
+    margin: 20px;
+
+}
+#p1 {
+    margin: 20px;
+}
+.edu2 {
+    border: tan solid 2px;
+    margin-left: 200px;
+    width: 60%;
+}
+#bold {
+    font-weight: bold;
+}
+#light {
+    font-weight: lighter;
+    color: gray;
+}
+.c2{
+    background-color: black;
+}
+#twoo {
+    border: solid black 2px;
+    border-radius: 100%;
+    background-color: gray;
+    margin: 5px;
+}
+.col {
+    display: flex;
+}
+.two {
+    background-color: black;
+    margin-top: 50px;
+    padding: 20px;
+    margin-right: 300px;
+}
+#req {
+    color: white;
+}
+.col1 {
+    flex: 1;
+}
+.col2 {
+    flex: 1;
+}
+.requests {
+    border: solid tan 2px;
+    padding: 20px;
+    margin-right: 300px;
+}
+.pics {
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.icons {
+    height: 50px;
+    margin-left: 20px;
+}
+#todd {
+    margin-bottom: 40px;
+}
+#phil {
+    margin-bottom: 40px;
+}
+.con {
+    background-color: black;
+    padding: 20px;
+    margin-top: 50px;
+    margin-right: 300px;
+}
+#five {
+    background-color: gray;
+    border-radius: 50%;
+    margin: 10px;
+}
+#yc {
+    color: white;
+}
+.lastdiv {
+    border: solid tan 2px;
+    padding: 20px;
+    margin-right: 300px;
+}
+.view {
+    border-left:  tan solid 2px;
+    border-right: tan solid 2px;
+    border-bottom: tan solid 2px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
