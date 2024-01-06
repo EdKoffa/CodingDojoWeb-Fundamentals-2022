@@ -1,0 +1,32 @@
+
+    #search {
+        color: green;
+        width:150px;
+        height: 30px;
+        border-radius: 20px;
+        border-color: green;
+        font-weight: bold;
+    }
+    #button1 {
+        margin-top: 30px;
+    }
+#container {
+    margin-left: 30px;
+}
+#plus {
+    color: white;
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    font-size: 20px;
+}
+#ca {
+    color: white;
+    background-color: blue;
+    width: 220px;
+    height: 40px;
+    box-shadow: 7px 7px black;
+}
